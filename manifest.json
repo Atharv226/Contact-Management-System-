@@ -1,0 +1,15 @@
+{
+  "name": "Contact Manager",
+  "short_name": "Contacts",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1c1c1c",
+  "theme_color": "#00ffc8",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
